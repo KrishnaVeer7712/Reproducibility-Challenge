@@ -16,7 +16,7 @@ Input Image, Output Image:
 
 ![download](https://user-images.githubusercontent.com/41145993/235355105-4aa9497d-70b4-4c01-b141-2f4459b1e0ea.png)
 
-#AutoEncoder:
+# AutoEncoder
 
 ![download](https://user-images.githubusercontent.com/41145993/235355165-ed67bdb5-c5cb-4086-835d-7f2f0978955e.png)
 
